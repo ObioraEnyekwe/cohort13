@@ -5,3 +5,4 @@ addign kemi
 adding will
 adding obi
 adding stash
+testing stash
